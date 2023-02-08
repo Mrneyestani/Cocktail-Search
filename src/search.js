@@ -1,3 +1,5 @@
+import { openOverlayPanel } from "./detail";
+
 /**
  * Recherche des coktails
  */
